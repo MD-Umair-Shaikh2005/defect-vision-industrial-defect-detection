@@ -1,4 +1,4 @@
-# defect-vision-industrial-defect-detection
+
 # Industrial Defect Detection using Computer Vision
 
 A computer vision project for detecting potentially defective industrial products using anomaly detection, developed for the Kaggle **Defect Vision – Industrial Defect Detection Challenge**.
